@@ -30,9 +30,6 @@ This project aims to develop a prototype for a KYC (Know Your Customer) registra
 3. Capture an image of yourself using the "Capture Image" button.
 4. Once all details are provided, the KYC verification process will be completed automatically.
 
-## Video explanation
-https://drive.google.com/file/d/19BbFrE9V7h0IF9dmzDkLIwJdBpW1G8_U/view?usp=sharing
-
 ## contributors 
 AASTHA PATIL : https://github.com/aashiaashu
 ADITYA SHINDE : https://github.com/shindeaditya07
